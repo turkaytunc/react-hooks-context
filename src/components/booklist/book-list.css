@@ -1,0 +1,16 @@
+.book-list {
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.book-list ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.book-list li {
+    padding: .5rem;
+    margin: .5rem;
+    border-radius: 2px;
+}

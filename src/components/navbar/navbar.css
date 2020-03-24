@@ -1,0 +1,12 @@
+nav {
+    padding: .5rem;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 1rem;
+}
