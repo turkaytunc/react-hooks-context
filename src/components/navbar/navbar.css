@@ -10,3 +10,16 @@ nav ul li {
     display: inline-block;
     margin: 0 1rem;
 }
+
+nav ul li a {
+    text-decoration: none;
+
+}
+
+
+nav ul li,
+a:hover,
+a:active,
+a:visited {
+    color: aliceblue;
+}

@@ -1,5 +1,9 @@
 .App {
-  max-width: 20rem;
-  margin: 2em auto;
+  max-width: auto;
+  margin-bottom: 5em;
   text-align: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-content: center;
 }
